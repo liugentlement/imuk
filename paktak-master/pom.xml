@@ -8,6 +8,7 @@
     <artifactId>paktak-master</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!--支持所有子项目强制此版本-->
     <dependencyManagement>
         <dependencies>
             <dependency>

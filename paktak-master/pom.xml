@@ -20,6 +20,7 @@
         </dependencies>
     </dependencyManagement>
 
+    <!--BOB构建项目体系-->
     <build>
         <plugins>
             <plugin>

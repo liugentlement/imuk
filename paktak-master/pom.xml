@@ -8,6 +8,8 @@
     <artifactId>paktak-master</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+
+    <!--就为了加一个注释至于的嘛-->
     <dependencyManagement>
         <dependencies>
             <dependency>
